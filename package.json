@@ -1,5 +1,7 @@
 {
   "name": "qway-vue",
+  "description": "Component Library, UI Kit, Design System",
+  "author": "Quickway",
   "version": "0.0.0",
   "scripts": {
     "build": "rimraf dist && vue-tsc && vite build",
