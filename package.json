@@ -2,7 +2,7 @@
   "name": "qway-vue",
   "description": "Component Library, UI Kit, Design System",
   "author": "Quickway",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "build": "rimraf dist && vue-tsc && vite build",
     "docs:dev": "vitepress dev docs --port 3001",
