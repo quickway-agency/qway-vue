@@ -1,7 +1,7 @@
 {
   "name": "qway-vue",
   "description": "Component Library, UI Kit, Design System",
-  "author": "Quickway",
+  "author": "Quickway Agency",
   "version": "0.0.1",
   "scripts": {
     "build": "rimraf dist && vue-tsc && vite build",
@@ -42,6 +42,7 @@
     "./dist/style.css": "./dist/style.css"
   },
   "dependencies": {
+    "normalize.css": "^8.0.1",
     "three": "^0.146.0"
   }
 }
