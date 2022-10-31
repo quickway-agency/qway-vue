@@ -1,7 +1,11 @@
-import ComponentA from './ComponentA.vue'
-import ComponentB from './ComponentB.vue'
+import QContainer from './QContainer.vue'
+import QRow from './QRow.vue'
+import QCol from './QCol.vue'
+import QThree from './QThree.vue'
 
 export {
-  ComponentA,
-  ComponentB
+  QContainer,
+  QRow,
+  QCol,
+  QThree
 }
