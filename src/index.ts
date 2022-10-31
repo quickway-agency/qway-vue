@@ -8,7 +8,8 @@ function install (app: App) {
   }
 }
 
-import './assets/main.scss'
+import './assets/styles/main.scss'
+import 'normalize.css/normalize.css'
 
 export default { install }
 
